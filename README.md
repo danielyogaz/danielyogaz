@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/danielyogaz](https://bit.ly/danielyogaz)
 
-- ⚡ Fun fact **I am very curious about new things**
+- ⚡ Fun fact **I am very curious about new things :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
