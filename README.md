@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Yoga Priyono
-- 👀 I’m interested in Big Data and Programming 
+- 👀 I’m interested in Data Science and Programming 
 - 🌱I’m currently learning Data Analysis and Web Development
 - 📫 How to reach me danielyogapriono@gmail.com
 
