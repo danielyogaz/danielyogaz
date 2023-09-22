@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Yoga Priyono</h1>
 <h3 align="center">I believe that being a programmer could help many people with their problems and contribute to making the world a better place for our future</h3>
-
+<img align="right alt="coding" width="400" scr="[![image](https://github.com/danielyogaz/danielyogaz/assets/127627880/3941df2c-461f-475e-be75-d741464e98df)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3k5tT01Tisjq2N1OS45pbnYkdBbrUv9nvIQ&usqp=CAU)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielyogaz&label=Profile%20views&color=0e75b6&style=flat" alt="danielyogaz" /> </p>
 
 - 🌱 I’m currently learning **ML,AI and Data Science**
